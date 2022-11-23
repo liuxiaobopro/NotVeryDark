@@ -1,0 +1,22 @@
+{
+  "name": "NotVeryDark",
+  "displayName": "NotVeryDark",
+  "description": "NotVeryDark",
+  "version": "0.0.1",
+  "publisher": "liuxiaobo",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NotVeryDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NotVeryDark-color-theme.json"
+      }
+    ]
+  }
+}
