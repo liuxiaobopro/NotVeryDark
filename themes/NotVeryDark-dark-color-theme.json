@@ -2,9 +2,86 @@
 	"name": "NotVeryDark",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#dbdbdb",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.foreground": "#bbbbbb",
+		"activityBarBadge.background": "#4d78cc",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"terminal.background": "#000000",
+		"terminal.foreground": "#dbdbdb",
+		"minimapSlider.background": "#adadad94",
+		"minimapSlider.hoverBackground": "#ffffff7c",
+		"minimapSlider.activeBackground": "#ffffff7c",
+		"scrollbarSlider.background": "#ffffff7c",
+		"scrollbarSlider.hoverBackground": "#adadad",
+		"scrollbarSlider.activeBackground": "#adadad",
+		"editor.selectionHighlightBorder": "#8d6641",
+		"editor.findMatchBackground": "#8d6641",
+		"editor.findMatchBorder": "#ff0000",
+		"editor.findMatchHighlightBackground": "#8d664179",
+		"editor.findMatchHighlightBorder": "#ffffff",
+		"editor.lineHighlightBackground": "#2d3139",
+		"editor.lineHighlightBorder": "#1f71ebc0",
+		"editorLineNumber.foreground": "#dbdbdb5b",
+		"editorLineNumber.activeForeground": "#dbdbdb",
+		"editorCursor.foreground": "#dbdbdb",
+		"editorWhitespace.foreground": "#dbdbdb5b",
+		"editorIndentGuide.background": "#dbdbdb8e",
+		"editorRuler.foreground": "#dbdbdb5b",
+		"editorBracketMatch.background": "#000000ab",
+		"editorBracketMatch.border": "#ffffff",
+		"editorGutter.background": "#000000",
+		"editorGutter.modifiedBackground": "#4b3304",
+		"editorGutter.addedBackground": "#004b00",
+		"editorGutter.deletedBackground": "#4b0000",
+		"editorError.foreground": "#ff6461",
+		"editorError.border": "#ff6461",
+		"editorWarning.foreground": "#fa973a",
+		"editorWarning.border": "#fa973a",
+		"editorInfo.foreground": "#00a1f9",
+		"editorInfo.border": "#00a1f9",
+		"editorHint.foreground": "#00a1f9",
+		"editorHint.border": "#00a1f9",
+		"editorUnnecessaryCode.border": "#ff0000",
+		"editorUnnecessaryCode.opacity": "#ff0000",
+		"editorGroup.border": "#000000",
+		"editorGroup.dropBackground": "#000000",
+		"editorGroupHeader.tabsBackground": "#000000",
+		"statusBar.background": "#000000",
+		"statusBar.foreground": "#dbdbdb",
+		"statusBar.border": "#dbdbdb88",
+		"statusBar.debuggingBackground": "#c00000",
+		"activityBar.background": "#000000",
+		"activityBar.foreground": "#dbdbdb",
+		"activityBar.border": "#dbdbdb88",
+		"activityBarBadge.foreground": "#000000",
+		"sideBar.background": "#000000",
+		"sideBar.foreground": "#dbdbdb",
+		"sideBar.border": "#dbdbdb88",
+		"sideBarSectionHeader.background": "#000000",
+		"sideBarSectionHeader.foreground": "#dbdbdb",
+		"sideBarSectionHeader.border": "#dbdbdb88",
+		"sideBar.dropBackground": "#ff0000",
+		"editorGroupHeader.noTabsBackground": "#000000",
+		"editorGroupHeader.tabsBorder": "#dbdbdb88",
+		"editorGroupHeader.border": "#dbdbdb88",
+		"editorGroup.emptyBackground": "#000000",
+		"editorGroup.focusedEmptyBorder": "#000000",
+		"tab.activeBackground": "#000000",
+		"tab.activeForeground": "#dbdbdb",
+		"tab.activeBorder": "#dba642",
+		"tab.inactiveBackground": "#000000",
+		"tab.inactiveForeground": "#dbdbdb",
+		"tab.border": "#252526",
+		"menu.background": "#000000",
+		"menu.foreground": "#dbdbdb",
+		"menu.border": "#dbdbdb88",
+		"menu.selectionBackground": "#4d78cc",
+		"menu.selectionForeground": "#dbdbdb",
+		"menu.selectionBorder": "#4d78cc",
+		"menu.separatorBackground": "#dbdbdb88",
+		"menubar.selectionBackground": "#4d78cc",
+		"menubar.selectionForeground": "#dbdbdb",
+		"menubar.selectionBorder": "#4d78cc",
+		"list.activeSelectionBackground": "#4d78cc",
 	},
 	"tokenColors": [
 		{
@@ -55,7 +132,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#9764b9"
 			}
 		},
 		{
@@ -75,7 +152,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#2394c0"
 			}
 		},
 		{
@@ -99,7 +176,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#31a34e"
 			}
 		},
 		{
@@ -165,7 +242,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#dba642"
 			}
 		},
 		{
