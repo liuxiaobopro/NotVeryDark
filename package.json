@@ -19,9 +19,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "NotVeryDark",
+        "label": "NotVeryDark dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/NotVeryDark-color-theme.json"
+        "path": "./themes/NotVeryDark-dark-color-theme.json"
+      },
+      {
+        "label": "NotVeryDark light",
+        "uiTheme": "vs",
+        "path": "./themes/NotVeryDark-light-color-theme.json"
+      },
+      {
+        "label": "NotVeryDark dark high contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/NotVeryDark-hc-black-color-theme.json"
+      },
+      {
+        "label": "NotVeryDark light high contrast",
+        "uiTheme": "hc-light",
+        "path": "./themes/NotVeryDark-hc-light-color-theme.json"
       }
     ]
   }
