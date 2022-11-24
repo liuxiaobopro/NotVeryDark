@@ -2,6 +2,10 @@
 ### 介绍
 一款vscode主题
 
+### 效果
+
+![](http://img.liuxiaobo.net.cn/qrqk1y8zpf16692698942741669269893552.png)
+
 ### 安装
 
 ```shell
@@ -22,3 +26,4 @@ git clone https://github.com/liuxiaobopro/NotVeryDark.git
 
 ### 注意
 只有深色主题的自定义的, 其他三款都是vscode默认的, 可以自行调整
+
