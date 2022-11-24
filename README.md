@@ -4,7 +4,7 @@
 
 ### 效果
 
-![](http://img.liuxiaobo.net.cn/qrqk1y8zpf16692698942741669269893552.png)
+![](./asset/qrqk1y8zpf16692698942741669269893552.png)
 
 ### 安装
 
@@ -22,7 +22,7 @@ git clone https://github.com/liuxiaobopro/NotVeryDark.git
 ### 使用
 按快捷键 `ctrl+shift+p`, 输入 `theme`, 找到对应主题, 如图
 
-![](http://img.liuxiaobo.net.cn/giit2egah316692694512611669269450658.png)
+![](./asset/giit2egah316692694512611669269450658.png)
 
 ### 注意
 只有深色主题的自定义的, 其他三款都是vscode默认的, 可以自行调整
