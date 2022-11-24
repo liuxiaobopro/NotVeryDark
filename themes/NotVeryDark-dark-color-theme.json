@@ -3,7 +3,7 @@
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#bbbbbb",
-		"activityBarBadge.background": "#4d78cc",
+		"activityBarBadge.background": "#0e639c",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"terminal.background": "#000000",
 		"terminal.foreground": "#dbdbdb",
@@ -74,14 +74,14 @@
 		"menu.background": "#000000",
 		"menu.foreground": "#dbdbdb",
 		"menu.border": "#dbdbdb88",
-		"menu.selectionBackground": "#4d78cc",
+		"menu.selectionBackground": "#0e639c",
 		"menu.selectionForeground": "#dbdbdb",
-		"menu.selectionBorder": "#4d78cc",
+		"menu.selectionBorder": "#0e639c",
 		"menu.separatorBackground": "#dbdbdb88",
-		"menubar.selectionBackground": "#4d78cc",
+		"menubar.selectionBackground": "#0e639c",
 		"menubar.selectionForeground": "#dbdbdb",
-		"menubar.selectionBorder": "#4d78cc",
-		"list.activeSelectionBackground": "#4d78cc",
+		"menubar.selectionBorder": "#0e639c",
+		"list.activeSelectionBackground": "#0e639c",
 	},
 	"tokenColors": [
 		{
@@ -132,7 +132,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#9764b9"
+				"foreground": "#2394c0"
 			}
 		},
 		{
