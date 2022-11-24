@@ -1,16 +1,24 @@
-# NotVeryDark README
+# NotVeryDark
+### 介绍
+一款vscode主题
 
-## Working with Markdown
+### 安装
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+```shell
+# 进入家目录
+# window进入 C:\Users\用户名\.vscode\extensions
+cd ~/.vscode/extensions
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# 克隆
+git clone https://github.com/liuxiaobopro/NotVeryDark.git
 
-## For more information
+# 重启vscode
+```
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### 使用
+按快捷键 `ctrl+shift+p`, 输入 `theme`, 找到对应主题, 如图
 
-**Enjoy!**
+![](http://img.liuxiaobo.net.cn/giit2egah316692694512611669269450658.png)
+
+### 注意
+只有深色主题的自定义的, 其他三款都是vscode默认的, 可以自行调整
