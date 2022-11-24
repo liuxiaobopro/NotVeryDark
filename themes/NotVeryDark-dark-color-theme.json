@@ -61,8 +61,8 @@
 		"sideBarSectionHeader.border": "#dbdbdb88",
 		"sideBar.dropBackground": "#ff0000",
 		"editorGroupHeader.noTabsBackground": "#000000",
-		"editorGroupHeader.tabsBorder": "#dbdbdb88",
-		"editorGroupHeader.border": "#dbdbdb88",
+		"editorGroupHeader.tabsBorder": "#000000",
+		"editorGroupHeader.border": "#000000",
 		"editorGroup.emptyBackground": "#000000",
 		"editorGroup.focusedEmptyBorder": "#000000",
 		"tab.activeBackground": "#000000",
@@ -211,7 +211,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#db6d4c"
 			}
 		},
 		{
@@ -226,7 +226,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#049ea3"
 			}
 		},
 		{
