@@ -25,5 +25,4 @@ git clone https://github.com/liuxiaobopro/NotVeryDark.git
 ![](./asset/giit2egah316692694512611669269450658.png)
 
 ### 注意
-只有深色主题的自定义的, 其他三款都是vscode默认的, 可以自行调整
-
+只有深色主题,浅色主题的自定义的, 其他两款高亮主题都是vscode默认的, 可以自行调整
