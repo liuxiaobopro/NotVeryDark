@@ -91,7 +91,6 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#5f5f5f"
 			}
 		},
