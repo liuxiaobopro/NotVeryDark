@@ -1,10 +1,11 @@
 {
-  "name": "NotVeryDark",
+  "name": "notverydark",
   "displayName": "Not Very Dark",
   "description": "a colorful theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "publisher": "liuxiaobo",
+  "icon": "./asset/logo.png",
   "engines": {
     "vscode": "^1.73.0"
   },
